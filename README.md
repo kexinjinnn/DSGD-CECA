@@ -52,7 +52,7 @@ Lisang Ding, Kexin Jin, Bicheng Ying, Kun Yuan, Wotao Yin,
 ```txt
 @InProceedings{Ding_2023_CECA,
   title = {DSGD-CECA: Decentralized SGD with Communication-Optimal Exact Consensus Algorithm},
-  author = {Lisang Ding, Kexin Jin, Bicheng Ying, Kun Yuan, Wotao Yin},
+  author = {Ding, Lisang and Jin, Kexin and Ying, Bicheng and Yuan, Kun and Yin, Wotao},
   booktitle = {Proceedings of the 40th International Conference on Machine Learning},
   year = {2023},
   series = {Proceedings of Machine Learning Research},
