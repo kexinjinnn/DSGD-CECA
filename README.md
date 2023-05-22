@@ -47,14 +47,15 @@ If you use this library or find the doumentation useful for your research, pleas
 
 Lisang Ding, Kexin Jin, Bicheng Ying, Kun Yuan, Wotao Yin,
 **DSGD-CECA: Decentralized SGD with Communication-Optimal Exact Consensus Algorithm**.
-ICML, 2023.
+*Proceedings of the 40th International Conference on Machine Learning*, PMLR, 2023.
 
 ```txt
-@inproceedings{Ding_2023_CECA,
-    title = {DSGD-CECA: Decentralized SGD with Communication-Optimal Exact Consensus Algorithm},
-    author = {Lisang Ding, Kexin Jin, Bicheng Ying, Kun Yuan, Wotao Yin},
-    booktitle = {ICML},
-    year = {2023}
+@InProceedings{Ding_2023_CECA,
+  title = {DSGD-CECA: Decentralized SGD with Communication-Optimal Exact Consensus Algorithm},
+  author = {Lisang Ding, Kexin Jin, Bicheng Ying, Kun Yuan, Wotao Yin},
+  booktitle = {Proceedings of the 40th International Conference on Machine Learning},
+  year = {2023},
+  series = {Proceedings of Machine Learning Research},
+  publisher = {PMLR}
 }
 ```
-
